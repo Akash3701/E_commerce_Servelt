@@ -25,7 +25,7 @@ public class AdminService implements AdminServiceInterface {
 
     @Override
     public List<User> viewAllBuyers() {
-        return adminDAO.getAllBuyers(); // Assuming you need a similar method for buyers; modify if needed.
+        return adminDAO.getAllBuyers(); 
     }
 
     public boolean blockUser(String email) {
