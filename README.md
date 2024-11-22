@@ -91,7 +91,8 @@ This project is an **E-Commerce Application** designed to support interactions b
 - Implement user authentication and session management for enhanced security.  
 - Add payment gateway integration.  
 - Introduce analytics dashboards for admins and retailers.  
-- Optimize search and filtering functionality.  
+- Optimize search and filtering functionality.
+- Working on Microservice project: https://github.com/Akash3701/SpringBootP2.git 
 
 ---
 
