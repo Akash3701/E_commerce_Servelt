@@ -10,7 +10,9 @@ This project is an **E-Commerce Application** designed to support interactions b
 ### 1. **Admin Features**  
 - View all users, retailers, and buyers.  
 - Block or unblock users based on their email.  
-- Delete users.  
+- Delete users.
+- Email: admin1@gmail.com
+- Password: admin1
 
 ### 2. **Retailer Features**  
 - Manage product inventory: Add, update, or delete products.  
